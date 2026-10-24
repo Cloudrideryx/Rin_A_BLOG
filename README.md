@@ -15,9 +15,9 @@ English | [简体中文](./README_zh_CN.md)
 
 Rin is a modern, serverless blog platform built entirely on Cloudflare's developer platform: Pages for hosting, Workers for serverless functions, D1 for SQLite database, and R2 for object storage. Deploy your personal blog with just a domain name pointed to Cloudflare—no server management required.
 
-## Live Demo
+## this repo
 
-https://xeu.life
+[cloudrider](https://blog.87736967.xyz/)
 
 ## Features
 
